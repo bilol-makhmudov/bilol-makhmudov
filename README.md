@@ -9,7 +9,6 @@
     <li>Android Development</li>
     <li>and much more...</li>
   </ol>
-  <li>Love solving Leetcode problems</li>
 
 
  ## Languages
