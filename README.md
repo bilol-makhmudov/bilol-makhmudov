@@ -1,7 +1,7 @@
 ![readme](https://user-images.githubusercontent.com/68492019/199285929-8b4b889b-447a-492a-b55e-835c0df732eb.jpg)
 
 # 💫 About Me:
-🔭 Currently working on:<br>   Software engineering student<br>🌱 What I'm Learning<br>    I'm currently learning Golang<br>🚀 What I'm Working On<br>    Web development school projects.<br>💬 Ask Me About<br>    Flutter, Python, Golang<br>📫 How to Reach Me<br>Email: acutmaxb@gmail.com<br>LinkedIn: in/bilol-makhmudov<br>⚡ Fun Fact<br>Plov lover
+🔭 Currently working on:<br>   •Software engineering student<br>🌱 What I'm Learning:<br>   •I'm currently learning Golang<br>🚀 What I'm Working On:<br>    •Web development school projects.<br>💬 Ask Me About:<br>    •Flutter, Python, Golang<br>📫 How to Reach Me:<br>•Email: acutmaxb@gmail.com<br>•LinkedIn: in/bilol-makhmudov<br>⚡ Fun Fact<br>•Plov lover
 
 
 ## 🌐 Socials:
